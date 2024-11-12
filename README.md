@@ -6,7 +6,7 @@
 
 ## OVERVIEW OF THE PROJECT: 
 
-# PROJECT:Weather Forecast App  
+### <ins>PROJECT</ins>:Weather Forecast App  
 
 ### Objectives:  
 * Display real-time weather data, including temperature, humidity, and wind speed.
@@ -22,10 +22,7 @@
 * HTML, CSS, JavaScript
 * OpenWeatherMap API for weather data
 * Axios for API requests
-* Font Awesome for icons
-
-## <ins>Output Link</ins>:
-https://pilliveda.github.io/CODTECH-Task-1/  
+* Font Awesome for icons  
 
 ## <ins>Output</ins>:
 ![image](https://github.com/user-attachments/assets/8cd5d725-64d3-4a42-8e86-c16dae6886e5)  
